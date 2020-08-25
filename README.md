@@ -1,4 +1,5 @@
-# Submit Note
+# Submit Logger
 
-## 1 First Submit
-Just has PreStudy task Python Code about numby and matplotlib in Jupyter.
+## First Submit
+
+Just has PreStudy task Python Code about numby and matplotlib on Jupyter.
